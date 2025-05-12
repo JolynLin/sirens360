@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "sirens360" "\0"
+            VALUE "FileDescription", "umtech_f1" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "sirens360" "\0"
+            VALUE "InternalName", "umtech_f1" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "sirens360.exe" "\0"
-            VALUE "ProductName", "sirens360" "\0"
+            VALUE "OriginalFilename", "umtech_f1.exe" "\0"
+            VALUE "ProductName", "umtech_f1" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
