@@ -7,6 +7,8 @@ import 'HomePage.dart';
 import 'splash.dart';
 import 'riskdetail.dart';
 import 'historydetail.dart';
+import 'profile.dart';
+import 'chatbot.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -37,12 +39,8 @@ class MyApp extends StatelessWidget {
         '/notifications': (context) => const Scaffold(
               body: Center(child: Text('Notifications Coming Soon')),
             ),
-        '/profile': (context) => const Scaffold(
-              body: Center(child: Text('Profile Coming Soon')),
-            ),
-        '/chatbot': (context) => const Scaffold(
-              body: Center(child: Text('Chatbot Coming Soon')),
-            ),
+        '/profile': (context) => const ProfilePage(),
+        '/chatbot': (context) => const ChatbotPage(),
       },
     );
   }
