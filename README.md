@@ -135,7 +135,7 @@ A **real-time, interactive dashboard** for monitoring **live sensor data + AI pr
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
 
 ## 📧 **Pitching Video**  
-For inquiries, reach out via **[your-email@example.com](mailto:your-email@example.com)** or open a GitHub issue.  
+ 
 
 ---
 
