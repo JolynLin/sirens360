@@ -40,7 +40,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('SIRENS 360',
+        title: Text('AegisX',
             style:
                 GoogleFonts.inter(fontWeight: FontWeight.w900, fontSize: 28)),
         automaticallyImplyLeading: false,
