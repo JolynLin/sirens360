@@ -40,7 +40,7 @@ dependencies:
   shared_preferences: ^2.2.2  # For local storage
   geolocator: ^10.1.0  # For location services
   # flutter_local_notifications: ^13.0.0  # For notifications (temporarily removed)
-  fl_chart: ^0.66.0
+  fl_chart: ^0.65.0
   flutter_map: ^6.1.0
   latlong2: ^0.9.0
 
