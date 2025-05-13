@@ -16,7 +16,7 @@ class SplashScreen extends StatelessWidget {
           children: const [
             Icon(Icons.warning_amber_rounded, size: 100, color: Colors.white),
             SizedBox(height: 20),
-            Text('Sirens 360', style: TextStyle(color: Colors.white, fontSize: 32, fontWeight: FontWeight.bold)),
+            Text('AegisX', style: TextStyle(color: Colors.white, fontSize: 32, fontWeight: FontWeight.bold)),
             SizedBox(height: 10),
             Text('Real-time disaster monitoring\nand early warning system',
                 textAlign: TextAlign.center,
